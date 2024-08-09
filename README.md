@@ -1,6 +1,8 @@
-# Sequence Kit Embedded Wallet React Starter Boilerplate
+# Sequence Wallet Inventory and Gift Mint Boilerplate
 
-Starter Sequence Embedded Wallet boilerplate that uses [Sequence Kit](https://github.com/0xsequence/kit) with React.
+## Coming Soon!
+
+Starter Sequence boilerplate demonstrating how to display wallet inventory, and mint a free gift-pack of NFTs, using Sequence.
 
 ## Quickstart
 
